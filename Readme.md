@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akhin%20K&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20India&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sherin.X&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20India&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7AB17&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Akhin;Java+Full+Stack+Developer;BCA+Student+%7C+Problem+Solver;Building+Cool+Stuff+with+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7AB17&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sherin.X;Java+Full+Stack+Developer;BCA+Student+%7C+Problem+Solver;Building+Cool+Stuff+with+Code" />
 </a>
 
 <p align="center">
@@ -30,9 +30,9 @@
 <img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```java
-public class Akhin {
+public class Sherin {
 
-    String name        = "Akhin K";
+    String name        = "Sherin.X";
     String location    = "India 🇮🇳";
     String education   = "BCA Student";
     String role        = "Java Full Stack Developer";
@@ -113,7 +113,7 @@ public class Akhin {
 <div align="center">
 
 <a href="https://github.com/ahin-2007">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahin-2007&bg_color=0d1117&color=F7AB17&line=F7AB17&point=ffffff&area=true&area_color=F7AB1730&hide_border=true&custom_title=Akhin's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahin-2007&bg_color=0d1117&color=F7AB17&line=F7AB17&point=ffffff&area=true&area_color=F7AB1730&hide_border=true&custom_title=Sherin's%20Contribution%20Graph" width="100%"/>
 </a>
 
 </div>
