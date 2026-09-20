@@ -6,10 +6,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,18,24&height=230&section=header&text=%20SHERIN%20X%20&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🚀%20Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20BCA&descAlignY=62&descSize=20" width="100%" alt="Sherin X Banner"/>
 
 <!-- Dynamic Animated Multi-line Typing SVG -->
+<div>
 <a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Hello+World!+I'm+Sherin+X;☕+Java+Full+Stack+Developer+%7C+Spring+Boot+Architect;⚛️+React.js+Craftsman+%7C+Interactive+UI%2FUX;🧠+Data+Structures+%26+Algorithms+Enthusiast;🌟+Crafting+High-Performance%2C+Scalable+Web+Apps!" alt="Typing SVG" />
 </a>
-
+</div>
 <br/>
 
 <!-- Holographic Live Badges -->
@@ -43,11 +45,11 @@
 <!-- ========================================== -->
 <div align="center" id="-about-me">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,4,8,12,18,24&height=70&text=👨‍💻%20About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=62" width="100%" alt="About Me Header"/>
+  
 </div>
 
 <br/>
 
-<img align="right" alt="Coding Hologram" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ```java
 public class SherinX extends Developer {
@@ -73,7 +75,11 @@ public class SherinX extends Developer {
 }
 ```
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Neon Divider"/>
+</div>
 <br clear="right"/>
+
 
 ### 🌟 Key Highlights & Milestones
 
